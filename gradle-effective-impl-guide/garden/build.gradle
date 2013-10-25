@@ -1,0 +1,24 @@
+allprojects {
+    task printInfo << {
+        println "this is ${project.name}"
+    }
+}
+
+subprojects {
+    afterEvaluate { project ->
+        if (project.hasLeaves) {
+            project.printInfo << {
+                println 'Has Leaves'
+            }
+        }
+    }
+}
+
+project('tree') {
+    ext.hasLeaves = true
+}
+
+project('flower') {
+    ext.hasLeaves = false
+    printInfo.dependsOn ':tree:printInfo'
+}
