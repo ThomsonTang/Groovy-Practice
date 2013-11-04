@@ -1,0 +1,10 @@
+<customers>
+  <customer id='1001'>
+    <name firstName='thomson' lastName='tang' />
+    <address street='Beiyuanlu' city='Beijing' />
+  </customer>
+  <customer id='1002'>
+    <name firstName='sweet' lastName='lisa' />
+    <address street='jishuitan' city='Beijing' />
+  </customer>
+</customers>
