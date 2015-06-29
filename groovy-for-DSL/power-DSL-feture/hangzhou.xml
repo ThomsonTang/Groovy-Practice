@@ -1,0 +1,128 @@
+<City name="杭州" id="79">
+    <Area name="西湖" id="81" cityName="杭州"></Area>
+    <Sq name="文一路" id="2994" areaName="西湖" cityName="杭州"></Sq>
+    <Sq name="文二路" id="2995" areaName="西湖" cityName="杭州"></Sq>
+    <Sq name="文三路" id="2996" areaName="西湖" cityName="杭州"></Sq>
+    <Sq name="西湖" id="2992" areaName="西湖" cityName="杭州"></Sq>
+    <Sq name="北山" id="8590" areaName="西湖" cityName="杭州"></Sq>
+    <Sq name="灵隐" id="8591" areaName="西湖" cityName="杭州"></Sq>
+    <Sq name="西溪" id="8592" areaName="西湖" cityName="杭州"></Sq>
+    <Sq name="翠苑" id="8593" areaName="西湖" cityName="杭州"></Sq>
+    <Sq name="文新" id="8594" areaName="西湖" cityName="杭州"></Sq>
+    <Sq name="古荡" id="8595" areaName="西湖" cityName="杭州"></Sq>
+    <Sq name="申花" id="12980" areaName="西湖" cityName="杭州"></Sq>
+    <Sq name="三墩" id="12981" areaName="西湖" cityName="杭州"></Sq>
+    <Sq name="黄龙" id="12982" areaName="西湖" cityName="杭州"></Sq>
+    <Sq name="古墩路" id="13455" areaName="西湖" cityName="杭州"></Sq>
+    <Sq name="转塘" id="13478" areaName="西湖" cityName="杭州"></Sq>
+    <Sq name="文苑" id="18948" areaName="西湖" cityName="杭州"></Sq>
+    <Sq name="西湖周边" id="5586" areaName="西湖" cityName="杭州"></Sq>
+    <Sq name="留下" id="15375" areaName="西湖" cityName="杭州"></Sq>
+    <Area name="拱墅" id="80" cityName="杭州"></Area>
+    <Sq name="拱宸桥" id="2980" areaName="拱墅" cityName="杭州"></Sq>
+    <Sq name="和睦" id="2979" areaName="拱墅" cityName="杭州"></Sq>
+    <Sq name="小河" id="2978" areaName="拱墅" cityName="杭州"></Sq>
+    <Sq name="大关" id="2981" areaName="拱墅" cityName="杭州"></Sq>
+    <Sq name="湖墅" id="2977" areaName="拱墅" cityName="杭州"></Sq>
+    <Sq name="米市巷" id="2976" areaName="拱墅" cityName="杭州"></Sq>
+    <Sq name="德胜" id="8596" areaName="拱墅" cityName="杭州"></Sq>
+    <Sq name="半山" id="8597" areaName="拱墅" cityName="杭州"></Sq>
+    <Sq name="余杭塘上" id="8598" areaName="拱墅" cityName="杭州"></Sq>
+    <Sq name="塘河" id="18854" areaName="拱墅" cityName="杭州"></Sq>
+    <Sq name="祥符" id="18756" areaName="拱墅" cityName="杭州"></Sq>
+    <Sq name="桥西" id="18757" areaName="拱墅" cityName="杭州"></Sq>
+    <Sq name="拱墅周边" id="5585" areaName="拱墅" cityName="杭州"></Sq>
+    <Area name="江干" id="84" cityName="杭州"></Area>
+    <Sq name="闸弄口" id="2989" areaName="江干" cityName="杭州"></Sq>
+    <Sq name="凯旋/采荷" id="2988" areaName="江干" cityName="杭州"></Sq>
+    <Sq name="四季青" id="2990" areaName="江干" cityName="杭州"></Sq>
+    <Sq name="白杨" id="2991" areaName="江干" cityName="杭州"></Sq>
+    <Sq name="笕桥" id="8599" areaName="江干" cityName="杭州"></Sq>
+    <Sq name="景芳" id="12796" areaName="江干" cityName="杭州"></Sq>
+    <Sq name="下沙" id="12797" areaName="江干" cityName="杭州"></Sq>
+    <Sq name="九堡" id="12798" areaName="江干" cityName="杭州"></Sq>
+    <Sq name="三里亭" id="12799" areaName="江干" cityName="杭州"></Sq>
+    <Sq name="钱江新城" id="12800" areaName="江干" cityName="杭州"></Sq>
+    <Sq name="南肖埠" id="13469" areaName="江干" cityName="杭州"></Sq>
+    <Sq name="丁桥" id="13470" areaName="江干" cityName="杭州"></Sq>
+    <Sq name="彭埠" id="13471" areaName="江干" cityName="杭州"></Sq>
+    <Sq name="三堡" id="13472" areaName="江干" cityName="杭州"></Sq>
+    <Sq name="五堡" id="13473" areaName="江干" cityName="杭州"></Sq>
+    <Sq name="金沙湖" id="14633" areaName="江干" cityName="杭州"></Sq>
+    <Sq name="城东新城" id="15539" areaName="江干" cityName="杭州"></Sq>
+    <Sq name="下沙沿江" id="18945" areaName="江干" cityName="杭州"></Sq>
+    <Sq name="下沙江湾" id="18946" areaName="江干" cityName="杭州"></Sq>
+    <Sq name="下沙物美" id="18947" areaName="江干" cityName="杭州"></Sq>
+    <Sq name="江干周边" id="4501" areaName="江干" cityName="杭州"></Sq>
+    <Area name="下城" id="83" cityName="杭州"></Area>
+    <Sq name="武林" id="2987" areaName="下城" cityName="杭州"></Sq>
+    <Sq name="长庆" id="8600" areaName="下城" cityName="杭州"></Sq>
+    <Sq name="艮山" id="8602" areaName="下城" cityName="杭州"></Sq>
+    <Sq name="潮鸣" id="8603" areaName="下城" cityName="杭州"></Sq>
+    <Sq name="朝晖" id="8604" areaName="下城" cityName="杭州"></Sq>
+    <Sq name="天水" id="12978" areaName="下城" cityName="杭州"></Sq>
+    <Sq name="东新" id="12979" areaName="下城" cityName="杭州"></Sq>
+    <Sq name="三塘" id="12977" areaName="下城" cityName="杭州"></Sq>
+    <Sq name="石桥" id="13489" areaName="下城" cityName="杭州"></Sq>
+    <Sq name="宝善" id="14075" areaName="下城" cityName="杭州"></Sq>
+    <Sq name="和平" id="14076" areaName="下城" cityName="杭州"></Sq>
+    <Sq name="仙林苑" id="16039" areaName="下城" cityName="杭州"></Sq>
+    <Sq name="孩儿巷" id="16040" areaName="下城" cityName="杭州"></Sq>
+    <Sq name="红会医院" id="16042" areaName="下城" cityName="杭州"></Sq>
+    <Sq name="莫衙营" id="16043" areaName="下城" cityName="杭州"></Sq>
+    <Sq name="下城周边" id="4500" areaName="下城" cityName="杭州"></Sq>
+    <Sq name="庆春" id="15363" areaName="下城" cityName="杭州"></Sq>
+    <Sq name="环北丝绸城附近" id="16041" areaName="下城" cityName="杭州"></Sq>
+    <Area name="上城" id="82" cityName="杭州"></Area>
+    <Sq name="平海路" id="2985" areaName="上城" cityName="杭州"></Sq>
+    <Sq name="吴山" id="2982" areaName="上城" cityName="杭州"></Sq>
+    <Sq name="湖滨" id="8605" areaName="上城" cityName="杭州"></Sq>
+    <Sq name="小营" id="8607" areaName="上城" cityName="杭州"></Sq>
+    <Sq name="清波" id="8606" areaName="上城" cityName="杭州"></Sq>
+    <Sq name="望江" id="8608" areaName="上城" cityName="杭州"></Sq>
+    <Sq name="南星" id="8609" areaName="上城" cityName="杭州"></Sq>
+    <Sq name="近江" id="12988" areaName="上城" cityName="杭州"></Sq>
+    <Sq name="复兴" id="13475" areaName="上城" cityName="杭州"></Sq>
+    <Sq name="紫阳" id="13476" areaName="上城" cityName="杭州"></Sq>
+    <Sq name="西湖大道" id="16032" areaName="上城" cityName="杭州"></Sq>
+    <Sq name="青年路" id="16033" areaName="上城" cityName="杭州"></Sq>
+    <Sq name="城站" id="16034" areaName="上城" cityName="杭州"></Sq>
+    <Sq name="梅花碑" id="16035" areaName="上城" cityName="杭州"></Sq>
+    <Sq name="佑圣观路" id="16036" areaName="上城" cityName="杭州"></Sq>
+    <Sq name="菜市桥" id="16037" areaName="上城" cityName="杭州"></Sq>
+    <Sq name="龙翔附近" id="16038" areaName="上城" cityName="杭州"></Sq>
+    <Sq name="上城周边" id="5587" areaName="上城" cityName="杭州"></Sq>
+    <Area name="余杭" id="86" cityName="杭州"></Area>
+    <Sq name="临平" id="3000" areaName="余杭" cityName="杭州"></Sq>
+    <Sq name="南苑" id="3001" areaName="余杭" cityName="杭州"></Sq>
+    <Sq name="星桥" id="3002" areaName="余杭" cityName="杭州"></Sq>
+    <Sq name="闲林" id="12983" areaName="余杭" cityName="杭州"></Sq>
+    <Sq name="乔司" id="12985" areaName="余杭" cityName="杭州"></Sq>
+    <Sq name="瓶窑" id="12986" areaName="余杭" cityName="杭州"></Sq>
+    <Sq name="良渚" id="12984" areaName="余杭" cityName="杭州"></Sq>
+    <Sq name="崇贤" id="13102" areaName="余杭" cityName="杭州"></Sq>
+    <Sq name="老余杭" id="12987" areaName="余杭" cityName="杭州"></Sq>
+    <Sq name="仁和" id="15183" areaName="余杭" cityName="杭州"></Sq>
+    <Sq name="余杭周边" id="4503" areaName="余杭" cityName="杭州"></Sq>
+    <Area name="萧山" id="87" cityName="杭州"></Area>
+    <Sq name="城厢" id="3003" areaName="萧山" cityName="杭州"></Sq>
+    <Sq name="北干" id="3004" areaName="萧山" cityName="杭州"></Sq>
+    <Sq name="蜀山" id="3005" areaName="萧山" cityName="杭州"></Sq>
+    <Sq name="闻堰" id="12795" areaName="萧山" cityName="杭州"></Sq>
+    <Sq name="新塘" id="12989" areaName="萧山" cityName="杭州"></Sq>
+    <Sq name="湘湖" id="12990" areaName="萧山" cityName="杭州"></Sq>
+    <Sq name="钱江世纪城" id="13474" areaName="萧山" cityName="杭州"></Sq>
+    <Sq name="萧山周边" id="4504" areaName="萧山" cityName="杭州"></Sq>
+    <Area name="滨江" id="85" cityName="杭州"></Area>
+    <Sq name="浦沿" id="2999" areaName="滨江" cityName="杭州"></Sq>
+    <Sq name="西兴" id="2997" areaName="滨江" cityName="杭州"></Sq>
+    <Sq name="长河" id="2998" areaName="滨江" cityName="杭州"></Sq>
+    <Sq name="彩虹城" id="13477" areaName="滨江" cityName="杭州"></Sq>
+    <Sq name="滨江周边" id="4502" areaName="滨江" cityName="杭州"></Sq>
+    <Area name="建德" id="5348" cityName="杭州"></Area>
+    <Area name="富阳" id="5349" cityName="杭州"></Area>
+    <Area name="临安" id="5350" cityName="杭州"></Area>
+    <Area name="桐庐" id="5351" cityName="杭州"></Area>
+    <Area name="淳安" id="5352" cityName="杭州"></Area>
+    <Area name="杭州周边" id="1907" cityName="杭州"></Area>
+</City>
