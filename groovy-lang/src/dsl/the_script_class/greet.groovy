@@ -17,3 +17,7 @@ greet()
 setName 'Clover'
 greet()
 
+@BaseScript(MyBaseClass)
+import groovy.transform.BaseScript
+setName 'Jeff'
+greet()
