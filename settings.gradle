@@ -1,0 +1,5 @@
+include 'building-testing-with-gradle'
+include 'gradle-effective-impl-guide'
+include 'groovy-for-DSL'
+include 'groovy-in-action'
+include 'groovy-lang'

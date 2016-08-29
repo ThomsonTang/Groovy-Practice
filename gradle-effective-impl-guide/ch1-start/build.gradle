@@ -1,8 +1,0 @@
-task helloworld << {
-    println "hello world!"
-}
-
-project.description = 'simple project'
-task simple << {
-    println "run simple task for project ${project.description}"
-}

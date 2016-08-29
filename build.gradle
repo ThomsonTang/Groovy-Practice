@@ -1,0 +1,21 @@
+subprojects {
+    apply plugin: 'groovy'
+
+    group "com.thomson.groovy"
+    version "1.0.0-SNAPSHOT"
+
+    repositories {
+        mavenLocal()
+        mavenCentral()
+    }
+
+    ext {
+        groovyVersion = "2.4.7"
+        ivyVersion = "2.2.0"
+    }
+
+    dependencies {
+        compile "org.codehaus.groovy:groovy-all:${groovyVersion}"
+        compile "org.apache.ivy:ivy:${ivyVersion}"
+    }
+}
