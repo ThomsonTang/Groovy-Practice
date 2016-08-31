@@ -1,13 +1,13 @@
 package dsl.command_chains
 
-@Grab('com.google.guava:guava:r09')
+@Grab('com.google.guava:guava:19.0')
 import com.google.common.base.*
 
 def split(string) {
     [on: { sep ->
-       [trimming: { trimChar ->
-           Splitter.on(sep).trimResults(CharMatcher.is(trimChar as char)).split(string).iterator().toList()
-       }]
+        [trimming: { trimChar ->
+            Splitter.on(sep).trimResults(CharMatcher.is(trimChar as char)).split(string).iterator().toList()
+        }]
     }]
 }
 

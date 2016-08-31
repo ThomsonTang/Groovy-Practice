@@ -1,3 +1,5 @@
+package way_to_groovy
+
 current = 1
 next = 1
 10.times {

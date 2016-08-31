@@ -1,4 +1,6 @@
-if(false) assert false
+package groovy_basic
+
+if (false) assert false
 
 if (null) {
     assert false
@@ -27,7 +29,7 @@ list.each() { item ->
     assert item == list[item]
 }
 
-switch(3) {
+switch (3) {
     case 1: assert false; break
     case 2: assert false; break
     case 3: assert true; break

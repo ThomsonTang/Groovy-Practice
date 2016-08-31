@@ -1,3 +1,5 @@
+package groovy_basic
+
 class Book {
     String title
 }
